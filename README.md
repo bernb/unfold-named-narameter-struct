@@ -1,3 +1,5 @@
+[![View Unfold Named Parameter Struct on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/109525-unfold-named-parameter-struct)
+
 Generate multiple named parameter combinations from a single struct that contains arrays.
 
 Example:
